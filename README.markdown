@@ -1,3 +1,8 @@
+Note: this is a modified version of TimelineJS for use in PlayyOn's products. 
+It will probably not be suitable for your projects, so use the original:
+
+https://github.com/VeriteCo/TimelineJS
+
 **Table of Contents**
 
 - [TimelineJS](#timelinejs)
